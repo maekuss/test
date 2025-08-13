@@ -2,4 +2,3 @@ hy
 
 sdhi
 
-te
